@@ -6,7 +6,7 @@ This project was built to practice **OOP concepts**, **Exception Handling**, **C
 
 ---
 
-## 📌 Features
+## Features
 
 - Add new student records
 - Update existing student information
@@ -17,7 +17,7 @@ This project was built to practice **OOP concepts**, **Exception Handling**, **C
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java 8+**
 - **HashMap** (Java Collections)
@@ -27,7 +27,7 @@ This project was built to practice **OOP concepts**, **Exception Handling**, **C
 
 ---
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 - Object-Oriented Programming (Classes, Objects, Encapsulation)
 - Java Collections (`HashMap`)
