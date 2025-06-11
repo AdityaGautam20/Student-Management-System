@@ -26,15 +26,3 @@ This project was built to practice **OOP concepts**, **Exception Handling**, **C
 - Git & GitHub for version control
 
 ---
-
-## Concepts Practiced
-
-- Object-Oriented Programming (Classes, Objects, Encapsulation)
-- Java Collections (`HashMap`)
-- Exception Handling
-- File Handling
-- Modular Project Structure
-- Git & GitHub (version control)
-
----
-
