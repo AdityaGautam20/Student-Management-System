@@ -13,6 +13,8 @@ public class Main {
         boolean running = true;
 
         while (running) {
+            service.load();
+
             System.out.println("\n===== Student Management System =====");
             System.out.println("1. Add Student");
             System.out.println("2. Update Student");
@@ -53,17 +55,17 @@ public class Main {
                     int updateId = in.nextInt();
                     in.nextLine();
 
-                    System.out.print("Enter New Name: ");
+                    System.out.print("Enter new Name: ");
                     String newName = in.nextLine();
 
-                    System.out.print("Enter New Age: ");
+                    System.out.print("Enter new Age: ");
                     int newAge = in.nextInt();
                     in.nextLine();
 
-                    System.out.print("Enter New Email: ");
+                    System.out.print("Enter new Email: ");
                     String newEmail = in.nextLine();
 
-                    System.out.print("Enter New Course: ");
+                    System.out.print("Enter new Course: ");
                     String newCourse = in.nextLine();
 
                     Student updatedStudent = new Student(updateId, newName, newAge, newEmail, newCourse);
